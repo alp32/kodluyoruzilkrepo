@@ -34,3 +34,4 @@ Pull Requestler kabul edilir.Büyük Değişiklikler için, lütfen önce neyi d
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+![](https://imgyukle.com/f/2022/01/25/o2ot6e.png)
